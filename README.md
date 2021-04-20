@@ -12,3 +12,4 @@
 </p>
 
 <h3 align="center">:brazil: :black_flag:<h3>
+<h6 align="center">Python • Golang • C++</h6>
