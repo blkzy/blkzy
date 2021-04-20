@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical" />
+  <img src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" />
 </p>
 
 <h3 align="center">:brazil: :black_flag:<h3>
